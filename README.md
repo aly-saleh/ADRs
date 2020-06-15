@@ -1,1 +1,1 @@
-# ADRs
+# Architecture Decision Records
